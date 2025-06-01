@@ -31,13 +31,9 @@ Ce projet est une version du célèbre jeu Snake, codée en Python avec Pygame, 
    python snake2.py
 3. Vérifier et renseigner dans le code python le port sur lequel est connecté la carte arduino à votre PC
 
-## 🖥️ Interface
-Voici une capture du jeu :
-
-![Snake Game](Images/interface.png)
 
 ## ▶️ Démonstration
 
 ## 🎥 Vidéo de démonstration
 
-[Regarder la vidéo de démonstration](Démo/démo.mp4)
+[![Demo](Images/interface.png)](https://drive.google.com/file/d/1eXF_RE5bes0696pLvoCe-vqB3xVPHVG_/view?usp=drive_link)
