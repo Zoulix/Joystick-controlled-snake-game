@@ -35,5 +35,5 @@ Ce projet est une version du célèbre jeu Snake, codée en Python avec Pygame, 
 ## ▶️ Démonstration
 
 ## 🎥 Vidéo de démonstration
-
+Clique sur l'image
 [![Demo](Images/interface.png)](https://drive.google.com/file/d/1eXF_RE5bes0696pLvoCe-vqB3xVPHVG_/view?usp=drive_link)
